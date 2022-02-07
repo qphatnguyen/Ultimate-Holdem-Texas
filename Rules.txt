@@ -1,0 +1,22 @@
+To understand this game, just read:
+How to start? Well, first of all, you need bet in ANTE!
+Use 4 directive keys to operate.
+OMG, we have 9 blinds: [5] [10] [25] [50] [100] [200] [500] [1000] [2000]
+Need to know: your standard hand has just 5 cards (chose 5 highest cards in 7 cards)
+	and compares with dealer's hand.
+Guide (to know clearly about this works): maximum hand to minimum hand
+	Royal Flush: [A K Q J 10] which are the same suite 
+	Straight Flush: is similar to Royal Flush, but it is weaker.
+	Quads: is 4 cards which are the same character (char).
+	Full House: is 3 cards (the same char) and 2 cards (the same char).
+	Flush: is 5 cards which are the same suite.
+	Straight: is 5 consecutive chars (A 2 3 ... J Q K A).
+ 	Three of kinds: is 3 cards (the same char).
+	Two pairs: is ... two pairs :)
+	Pair: is only 2 cards (the same char).
+	Higher: doesn't have any previous cases.
+---------------------------------------------------------------------------------------------------------
+And then, if you fold, your chips which bet in ANTE will be disappeared
+	or you can bet in PLAY to earn more chips, if you win (pay 1 to 1).
+Now, enjoy it!
+	Press [ESC] to BACK
